@@ -35,8 +35,12 @@ html{
   width: calc(100% / 3);
 }
 
-.col.col-half {
+ .col.col-half {
     text-align: center;
+} 
+
+.col.col-half.contact-in4 {
+    text-align: unset;
 }
 
 .col-half {
