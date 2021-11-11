@@ -8,6 +8,7 @@
 /* chỉnh font chữ */
 html{
     font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
 }
 
 .white-text{
